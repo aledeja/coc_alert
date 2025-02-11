@@ -120,7 +120,7 @@ def main():
     st.title("📊 Crypto Metrics Dashboard")
     
     # Read and display the CSV data
-    file_path = r'C:\Users\alecd\OneDrive\Desktop\CODE HOME\MOSH\alerts_python\checkonchain.csv'
+    file_path = 'checkonchain.csv'
     
     try:
         # Format message and get dataframe
